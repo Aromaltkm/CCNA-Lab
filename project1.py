@@ -12,3 +12,4 @@ plt.plot(ch1)
 plt.yticks(np.arange(2000,4000,100))
 plt.xticks([0,1,2,3],ch[:,0])
 plt.show()
+#on manual HH 13 HT 16 TT 9 TH 12
